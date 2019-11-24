@@ -10,8 +10,8 @@ except :
 print """
 
 	SSH Attack script
-	Written By : Benelhaj_younes 
-	Email : younes.brovi@gmail.com
+	Written By : r2dr0dn 
+	Email : r2dr0dn@pm.me
 
 	[WARNING] Only use it for hacking purpose
 
